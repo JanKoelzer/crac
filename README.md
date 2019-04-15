@@ -1,10 +1,10 @@
 # fuchsi
 
-Fuchsi is a simple image proccessing tool that detects a predefined number of pixels of a predefined color* and interprets the respective points as forming an angle (apex or arm). It then outputs the size of those angles.
+Fuchsi is a simple image processing tool that detects a predefined number of pixels of a predefined color* and interprets the respective points as part of an angle (apex or arm). It then computes and outputs the size of those angles.
 
 Dependencies/Requirements:
 - bash
-- PHP 5+ with libdg
+- PHP 5+ with libgd
 
 Input:
 A set of images in png format, located in the subdirectory pics/.
