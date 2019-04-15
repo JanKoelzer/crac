@@ -13,4 +13,4 @@ Each file must contain the exact number of pixels of the predefined color*.
 Output:
 A CSV file where each line represents an input file and each row represents a computed angle.
 
-* Historically, this color was fuchsia (#FF00FF), hence the project name.
+(* Historically, this color was fuchsia (#FF00FF), hence the project name.)
