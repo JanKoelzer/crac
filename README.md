@@ -11,6 +11,7 @@ CrAC is a simple image processing tool that detects a predefined number of pixel
 ### Input:
 A set of images in png format, located in the subdirectory pics/.
 Each file must contain the exact number of pixels of the predefined color.
+To process jpg files, run the convert script prior to the next step.
 
 ### Run:
 Use bash to run "start-all".
