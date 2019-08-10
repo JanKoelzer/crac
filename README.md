@@ -1,4 +1,4 @@
-# CrAC - Cranial Angle Calculation
+# CrAC - Cranial Angle Calculator
 
 CrAC is a simple image processing tool that detects a predefined number of pixels of a predefined color and interprets the respective points as part of an angle (apex or arm). It then computes and outputs the size of those angles.
 
